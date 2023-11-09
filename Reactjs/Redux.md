@@ -87,7 +87,7 @@ export default Home;
 ```
 
 ```js
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 ```
 
 we can access the value of state in any component
